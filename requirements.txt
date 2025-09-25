@@ -1,8 +1,20 @@
-streamlit
-tensorflow
+# Core ML/DL libraries
+tensorflow>=2.11.0
 numpy
 pandas
 scikit-learn
+
+# NLP
 nltk
-regex
-string
+transformers
+
+# Visualization
+matplotlib
+seaborn
+
+# Deployment
+streamlit
+
+# Optional: progress bars, utilities
+tqdm
+joblib
